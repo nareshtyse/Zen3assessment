@@ -1,0 +1,6 @@
+
+#########First COnnect Azure portal from Powershell using below command################
+Connect-AzAccount
+##########Resart a vm Command############
+Restart-AzVM -ResourceGroupName "ResourceGroupName" -Name "VirtualMachineName"
+
