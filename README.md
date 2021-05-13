@@ -2,7 +2,7 @@
 1. For creating the VM we can do in many on highlevel even we can first check the information about resources which are available in azure or not. 
 If not we can create the condition and make the resource gohead and create.
 But now I am just sending the powershell script with for creating the Vm in Azure .
-2. I also attached the output of VM creation powershell screenshot.
+
 
 
 ##########Restart Vm############
